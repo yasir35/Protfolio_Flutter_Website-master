@@ -1,6 +1,6 @@
 // Resume
 const String resume =
-    'https://drive.google.com/uc?export=download&id=1rzO5etIHqC1sFEfLItVuUKyu5pyZWfS4';
+    'Empty';
 
 // Github Link
 const String gitHub = 'https://github.com/yasir35';
